@@ -94,6 +94,16 @@ It demonstrates how a WAF can be built using both rule-based and machine learnin
 
 ---
 
+🚀 Future Enhancements
+Real-time dashboard monitoring
+SIEM integration
+Docker deployment
+Reverse proxy integration
+Cloud deployment (AWS/Azure)
+Advanced anomaly detection
+
+---
+
 ## 👨‍💻 Author
 
 Noor Ahmed
